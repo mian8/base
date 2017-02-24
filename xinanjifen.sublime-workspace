@@ -1,0 +1,609 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"EN",
+				"ENTER	statement"
+			],
+			[
+				"se",
+				"selenium	module"
+			],
+			[
+				"f",
+				"for	For Loop"
+			],
+			[
+				"lo",
+				"long_tinme_task	function"
+			],
+			[
+				"str",
+				"start	statement"
+			],
+			[
+				"ra",
+				"random	statement"
+			],
+			[
+				"bas",
+				"base_time	module"
+			],
+			[
+				"p",
+				"pool	module"
+			],
+			[
+				"fi",
+				"first	function"
+			],
+			[
+				"pro",
+				"process	module"
+			],
+			[
+				"__",
+				"__main__〔variable〕"
+			],
+			[
+				"th",
+				"threads	statement"
+			],
+			[
+				"fil",
+				"filts	statement"
+			],
+			[
+				"list",
+				"lists	statement"
+			],
+			[
+				"no",
+				"now_time	function"
+			],
+			[
+				"thing",
+				"thhing"
+			],
+			[
+				"t",
+				"times	param"
+			],
+			[
+				"c",
+				"ctime	function"
+			],
+			[
+				"va",
+				"values	statement"
+			],
+			[
+				"gete",
+				"getElementsByTagName	function"
+			],
+			[
+				"d",
+				"documentElement	statement"
+			],
+			[
+				"GET",
+				"getElementsByTagName	function"
+			],
+			[
+				"read",
+				"readline	function"
+			],
+			[
+				"w",
+				"write	function"
+			],
+			[
+				"min",
+				"minidom	module"
+			],
+			[
+				"r",
+				"reader	function"
+			],
+			[
+				"ass",
+				"assertEqual	function"
+			],
+			[
+				"h",
+				"hour	statement"
+			],
+			[
+				"ge",
+				"general_time	function"
+			],
+			[
+				"re",
+				"return	keyword"
+			],
+			[
+				"el",
+				"else	keyword"
+			],
+			[
+				"now",
+				"now_time	statement"
+			],
+			[
+				"pr",
+				"print	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "xml_base.py",
+			"settings":
+			{
+				"buffer_size": 498,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "os_base.py",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thread_base.py",
+			"settings":
+			{
+				"buffer_size": 846,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "temp.py",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "richang/zs.py",
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Windows",
+				"name": "#-*-coding:utf-8-*-"
+			}
+		},
+		{
+			"file": "multiprocessing_base.py",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "base_time.py",
+			"settings":
+			{
+				"buffer_size": 1092,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jinkins_test.py",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 275.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 525.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/base/jinkins_test.py",
+		"/E/js_learn/qwe.html",
+		"/E/js_learn/asd.js",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/E/base/csv_base.py",
+		"/E/base/base_time.py",
+		"/E/base/other/xueqiu.yml",
+		"/E/base/other/name.txt",
+		"/E/base/other/os_base.py",
+		"/E/base/re_base.py",
+		"/E/base/other/pipei",
+		"/E/justforfun/new.py",
+		"/E/justforfun/example.py",
+		"/E/justforfun/chrome.py",
+		"/E/base/re_leran.py",
+		"/E/base/re_leran",
+		"/E/base/xinanjifen.sublime-project",
+		"/E/base/xinanjifen.sublime-workspace",
+		"/E/justforfun/oracle.txt",
+		"/E/justforfun/pygame.jpg",
+		"/E/justforfun/test.html",
+		"/E/justforfun/report.html",
+		"/E/justforfun/myreport.html",
+		"/E/base/base/login.py",
+		"/E/base/base/mark.py",
+		"/E/justforfun/fugu.png",
+		"/E/justforfun/Image.png",
+		"/E/base/print.py",
+		"/E/base/base_time",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/lenovo/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hour"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "xml_base.py",
+					"settings":
+					{
+						"buffer_size": 498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								466
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 104.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "os_base.py",
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "thread_base.py",
+					"settings":
+					{
+						"buffer_size": 846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								474,
+								474
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "temp.py",
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "richang/zs.py",
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "#-*-coding:utf-8-*-",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "multiprocessing_base.py",
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "base_time.py",
+					"settings":
+					{
+						"buffer_size": 1092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1092,
+								1092
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "jinkins_test.py",
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 123.0,
+	"status_bar_visible": true
+}

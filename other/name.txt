@@ -1,0 +1,1 @@
+./other/xueqiu.yml,./other/xueqiu.xml

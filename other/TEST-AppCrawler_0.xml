@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite 
+errors="0" failures="0" hostname="lenovo-PC" name="AppCrawler_0" tests="19" time="0.02" timestamp="2016-11-03T11:15:33">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment">
+    </property>
+    <property 
+    name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\bin">
+</property>
+	<text class="name">这里是文本</text>
+    <property name="java.vm.version" value="25.91-b14"> </property>
+    <property name="java.vm.vendor" value="Oracle Corporation"> </property>
+    <property name="java.vendor.url" value="http://java.oracle.com/">
+    </property>
+    <property name="path.separator" value=";"> </property>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM">
+    </property>
+    <property name="file.encoding.pkg" value="sun.io"> </property>
+    <property name="user.script" value=""> </property>
+    <property name="user.country" value="CN"> </property>
+    <property name="sun.java.launcher" value="SUN_STANDARD"> </property>
+    <property name="sun.os.patch.level" value="Service Pack 1"> </property>
+    <property 
+    name="java.vm.specification.name" value="Java Virtual Machine Specification">
+</property>
+    <property name="user.dir" value="F:\appcrawler\appcrawler-1.7.0\bin">
+    </property>
+    <property name="java.runtime.version" value="1.8.0_91-b14"> </property>
+    <property 
+    name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment">
+</property>
+    <property 
+    name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\endorsed">
+</property>
+    <property name="os.arch" value="amd64"> </property>
+    <property 
+    name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\">
+</property>
+    <property name="line.separator" value=" "> </property>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.variant" value=""> </property>
+    <property name="os.name" value="Windows 7"> </property>
+    <property name="sun.jnu.encoding" value="GBK"> </property>
+    <property 
+    name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_91\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Appium\node_modules\.bin;C:\ProgramData\Oracle\Java\javapath;C:\Python35;C:\Python35\Scripts;C:\Python35\Lib\site-packages\django;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Java\jdk1.8.0_91\bin;C:\Program Files\Java\jdk1.8.0_91\jre\bin;D:\Program Files\nodejs\;D:\Program Files\Android\android-sdk\platform-tools;D:\Program Files\Android\android-sdk\tools;D:\Program Files\Appium\node_modules\.bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Git\cmd;C:\Python35\Scripts\;C:\Python35\;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Python27;C:\Users\lenovo\AppData\Roaming\npm;.">
+</property>
+    <property 
+    name="java.specification.name" value="Java Platform API Specification">
+</property>
+    <property name="java.class.version" value="52.0"> </property>
+    <property 
+    name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers">
+</property>
+    <property name="os.version" value="6.1"> </property>
+    <property name="user.home" value="C:\Users\lenovo"> </property>
+    <property name="user.timezone" value="Asia/Shanghai"> </property>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob">
+    </property>
+    <property name="file.encoding" value="UTF-8"> </property>
+    <property name="java.specification.version" value="1.8"> </property>
+    <property name="user.name" value="lenovo"> </property>
+    <property 
+    name="java.class.path" value="F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\appcrawler.appcrawler-1.7.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\cglib.cglib-3.2.1.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\cglib.cglib-nodep-2.1_3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\chkbugreport-0.5-215.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.brsanthu.google-analytics-java-1.1.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.fasterxml.jackson.core.jackson-annotations-2.7.5.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.fasterxml.jackson.core.jackson-core-2.7.5.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.fasterxml.jackson.core.jackson-databind-2.7.5.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.fasterxml.jackson.dataformat.jackson-dataformat-yaml-2.5.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.fasterxml.jackson.module.jackson-module-paranamer-2.7.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.fasterxml.jackson.module.jackson-module-scala_2.11-2.7.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.github.scopt.scopt_2.11-3.5.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.google.code.findbugs.jsr305-2.0.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.google.code.gson.gson-2.6.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.google.guava.guava-19.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.jcraft.jzlib-1.1.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.thoughtworks.paranamer.paranamer-2.8.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.twitter.util-core_2.11-6.35.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.twitter.util-eval_2.11-6.35.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\com.twitter.util-function_2.11-6.35.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-beanutils.commons-beanutils-1.9.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-codec.commons-codec-1.10.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-collections.commons-collections-3.2.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-digester.commons-digester-1.8.1.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-io.commons-io-2.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-logging.commons-logging-1.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\commons-validator.commons-validator-1.5.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\dnsjava.dnsjava-2.1.7.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\io.appium.java-client-3.4.1.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\io.netty.netty-3.5.7.Final.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\io.netty.netty-all-4.0.39.Final.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\io.selendroid.selendroid-client-0.16.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\io.selendroid.selendroid-common-0.16.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\io.selendroid.selendroid-server-common-0.16.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\javax.annotation.jsr250-api-1.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\log4j.log4j-1.2.17.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.java.dev.jna.jna-4.1.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.java.dev.jna.jna-platform-4.1.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.lightbody.bmp.browsermob-core-2.1.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.lightbody.bmp.littleproxy-1.1.0-beta-bmp-13.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.lightbody.bmp.mitm-2.1.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.sf.qualitycheck.quality-check-1.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.sf.uadetector.uadetector-core-0.9.22.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\net.sf.uadetector.uadetector-resources-2014.10.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.apache.ant.ant-1.9.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.apache.ant.ant-launcher-1.9.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.apache.commons.commons-exec-1.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.apache.commons.commons-lang3-3.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.apache.httpcomponents.httpclient-4.5.2.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.apache.httpcomponents.httpcore-4.4.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.bouncycastle.bcpkix-jdk15on-1.54.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.bouncycastle.bcprov-jdk15on-1.54.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.json.json-20090211.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.json4s.json4s-ast_2.11-3.3.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.json4s.json4s-core_2.11-3.3.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.json4s.json4s-native_2.11-3.3.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.json4s.json4s-scalap_2.11-3.3.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.lucee.commons-codec-1.10.L001.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.ow2.asm.asm-5.0.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.ow2.asm.asm-analysis-5.0.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.ow2.asm.asm-tree-5.0.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.ow2.asm.asm-util-5.0.3.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.parboiled.parboiled-core-1.1.7.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.parboiled.parboiled-java-1.1.7.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.pegdown.pegdown-1.6.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.scala-lang.modules.scala-parser-combinators_2.11-1.0.4.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.scala-lang.modules.scala-xml_2.11-1.0.5.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.scala-lang.scala-compiler-2.11.7.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.scala-lang.scala-library-2.11.7.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.scala-lang.scala-reflect-2.11.7.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.scalatest.scalatest_2.11-2.2.6.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-api-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-chrome-driver-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-edge-driver-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-firefox-driver-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-ie-driver-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-java-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-leg-rc-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-remote-driver-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-safari-driver-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.seleniumhq.selenium.selenium-support-2.53.0.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.slf4j.jcl-over-slf4j-1.7.21.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.slf4j.slf4j-api-1.7.21.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.slf4j.slf4j-log4j12-1.7.18.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\org.yaml.snakeyaml-1.12.jar;F:\appcrawler\appcrawler-1.7.0\bin\\\..\lib\\tools.jar">
+</property>
+    <property name="java.vm.specification.version" value="1.8"> </property>
+    <property name="sun.arch.data.model" value="64"> </property>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_91\jre">
+    </property>
+    <property 
+    name="sun.java.command" value="com.xueqiu.qa.appcrawler.AppCrawler -a TN.apk">
+</property>
+    <property name="java.specification.vendor" value="Oracle Corporation">
+    </property>
+    <property name="user.language" value="zh"> </property>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"> </property>
+    <property name="java.vm.info" value="mixed mode"> </property>
+    <property name="java.version" value="1.8.0_91"> </property>
+    <property 
+    name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext;C:\Windows\Sun\Java\lib\ext">
+</property>
+    <property 
+    name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_91\jre\classes">
+</property>
+    <property name="sun.stderr.encoding" value="ms936"> </property>
+    <property name="java.vendor" value="Oracle Corporation"> </property>
+    <property name="file.separator" value="\"> </property>
+    <property 
+    name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/">
+</property>
+    <property name="sun.cpu.endian" value="little"> </property>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"> </property>
+    <property name="sun.stdout.encoding" value="ms936"> </property>
+    <property name="sun.desktop" value="windows"> </property>
+    <property name="sun.cpu.isalist" value="amd64"> </property>
+  </properties>
+  <testcase 
+  name="clickedIndex=0 xpath=startupActions-println(&quot;startupAction call use scala code&quot;)-0" classname="AppCrawler_0" time="0.0">
+</testcase>
+  <testcase 
+  name="clickedIndex=1 xpath=//android.support.v4.view.ViewPager[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/viewpager&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tv_title&quot; and @text=&quot;发现&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=2 xpath=//android.widget.HorizontalScrollView[@index=&quot;2&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/indicator&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.TextView[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/item_text&quot; and @text=&quot;发现&quot;]" classname="AppCrawler_0" time="0.0">
+</testcase>
+  <testcase 
+  name="clickedIndex=3 xpath=//android.widget.HorizontalScrollView[@index=&quot;2&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/indicator&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/item_text&quot; and @text=&quot;行情&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=4 xpath=//android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/rl_title_optional&quot;]/android.widget.FrameLayout[@index=&quot;0&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/btn_edit_zxg&quot; and @text=&quot;编辑&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=5 xpath=//android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/rl_title_optional&quot;]/android.widget.FrameLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tx_eidt_title&quot; and @text=&quot;编辑自选股&quot;]" classname="AppCrawler_0" time="0.0">
+</testcase>
+  <testcase 
+  name="clickedIndex=6 xpath=//android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.FrameLayout[@index=&quot;0&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/linearlayoutTitle2&quot;]/android.widget.TextView[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/optional_warn_gp&quot; and @text=&quot;股票&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=7 xpath=//android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.FrameLayout[@index=&quot;0&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/linearlayoutTitle2&quot;]/android.widget.TextView[@index=&quot;2&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/optional_warn_zd&quot; and @text=&quot;置顶&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=8 xpath=//android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.FrameLayout[@index=&quot;0&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/linearlayoutTitle2&quot;]/android.widget.TextView[@index=&quot;3&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/optional_warn_td&quot; and @text=&quot;拖动&quot;]" classname="AppCrawler_0" time="0.0">
+</testcase>
+  <testcase 
+  name="clickedIndex=9 xpath=//android.widget.RelativeLayout[@index=&quot;0&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/rela_check&quot;]/android.widget.RelativeLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tv_stock_name&quot; and @text=&quot;上证指数&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=10 xpath=//android.widget.RelativeLayout[@index=&quot;0&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/rela_check&quot;]/android.widget.RelativeLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tv_stock_name&quot; and @text=&quot;深证成指&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=11 xpath=//android.widget.RelativeLayout[@index=&quot;0&quot;]/android.widget.RelativeLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/rela_check&quot;]/android.widget.RelativeLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tv_stock_name&quot; and @text=&quot;创业板&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=12 xpath=//android.widget.HorizontalScrollView[@index=&quot;2&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/indicator&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.TextView[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/item_text&quot; and @text=&quot;交易&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=13 xpath=//android.widget.LinearLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/ll_main_container_hold_non&quot;]/android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.TextView[@index=&quot;0&quot; and @text=&quot;当日参考盈亏(元)&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=14 xpath=//android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.LinearLayout[@index=&quot;0&quot;]/android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @text=&quot;--&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=15 xpath=//android.widget.LinearLayout[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/ll_main_container_hold_non&quot;]/android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @text=&quot;总盈亏(元)&quot;]" classname="AppCrawler_0" time="0.0">
+</testcase>
+  <testcase 
+  name="clickedIndex=16 xpath=//android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.LinearLayout[@index=&quot;1&quot;]/android.widget.TextView[@index=&quot;0&quot; and @text=&quot;--&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=17 xpath=//android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.LinearLayout[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/ll_home_layout&quot;]/android.widget.LinearLayout[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/ll_firstRow&quot;]/android.widget.TextView[@index=&quot;0&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tv_buying&quot; and @text=&quot;买入&quot;]" classname="AppCrawler_0" time="0.001">
+</testcase>
+  <testcase 
+  name="clickedIndex=19 xpath=//android.widget.LinearLayout[@index=&quot;2&quot;]/android.widget.LinearLayout[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/ll_home_layout&quot;]/android.widget.LinearLayout[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/ll_firstRow&quot;]/android.widget.TextView[@index=&quot;1&quot; and @resource-id=&quot;com.thinkive.android.investhtzq:id/tv_sell&quot; and @text=&quot;卖出&quot;]" classname="AppCrawler_0" time="0.0">
+</testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
